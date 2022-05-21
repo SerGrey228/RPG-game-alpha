@@ -1,0 +1,15 @@
+0Old man:
+0Helow traveler!
+0
+1Hero:
+1Who are you, old man?
+1
+2Pendolph:
+2My name is Pendolph!
+2I'm here to ask you for help.
+3Pendolph:
+3You need to beat the robbers
+3thet are hiding in the forest.
+4Hero:
+4Ok.
+4

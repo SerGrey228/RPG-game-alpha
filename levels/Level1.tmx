@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="15" height="9" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="6">
+ <tileset firstgid="1" name="TileMap" tilewidth="32" tileheight="32" tilecount="1200" columns="40">
+  <image source="../images/TileMap.png" width="1280" height="960"/>
+ </tileset>
+ <layer id="1" name="Слой тайлов 1" width="15" height="9">
+  <data>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="442"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="242"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="243"/>
+   <tile gid="244"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="282"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="284"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="282"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="284"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="282"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="283"/>
+   <tile gid="284"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="322"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="323"/>
+   <tile gid="324"/>
+   <tile gid="402"/>
+   <tile gid="402"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="362"/>
+   <tile gid="402"/>
+  </data>
+ </layer>
+ <objectgroup id="2" name="Слой объектов 1">
+  <object id="1" name="solid" x="1.33333" y="44.6667" width="476" height="28"/>
+  <object id="3" name="solid" x="451.333" y="74.6667" width="28" height="184"/>
+  <object id="4" name="solid" x="3.33333" y="76.6667" width="28" height="184"/>
+  <object id="2" name="solid" x="2" y="262" width="476" height="28"/>
+  <object id="5" name="dialog" x="100" y="75.3333" width="26.6666" height="11.3333"/>
+ </objectgroup>
+</map>
